@@ -1,5 +1,5 @@
 &nbsp;
-<link rel="stylesheet" src="https://raw.githubusercontent.com/httpchat/httpchat.github.io/master/css/style.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/httpchat/httpchat.github.io/master/css/style.css">
 
 # HTTPChat
 
