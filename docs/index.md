@@ -1,6 +1,6 @@
 # HTTPChat
 
-![Icon](https://raw.githubusercontent.com/httpchat/members/master/docs/http-small.png)
+![Icon](https://raw.githubusercontent.com/httpchat/httpchat.github.io/master/docs/http-small.png)
 
 ## Tania Rascia
 
