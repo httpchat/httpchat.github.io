@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+#httpchat {
+    border-bottom: 0;
+    text-align: center;
+    padding-top: 1em;
+}
+
 a {
   color: #EC6665;
 }
