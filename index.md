@@ -1,4 +1,3 @@
-&nbsp;
 <style>a { color: #EC6665; }</style>
 
 # HTTPChat
