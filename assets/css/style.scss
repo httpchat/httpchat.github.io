@@ -3,10 +3,16 @@
 
 @import "{{ site.theme }}";
 
+img[alt=Icon] {
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+}
+
 #httpchat {
     border-bottom: 0;
     text-align: center;
-    padding-top: 1em;
+    padding-top: 1rem;
 }
 
 a {
