@@ -19,7 +19,7 @@ Hi, I'm Tania. I started the HTTPChat Slack group to have a positive, encouragin
 
 Hi, I'm Craig. I like to eat and drink. I'm interested in user experience and product design. 
 
-- [craiglam.com](https://www.craiglam.com)
+- [craiglam.com](http://www.craiglam.com)
 - [@siliconeidolon](https://twitter.com/siliconeidolon)
 - Edinburgh, Scotland
 
