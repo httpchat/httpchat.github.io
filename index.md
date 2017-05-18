@@ -7,6 +7,7 @@ Hi, I'm Tania. I started the HTTPChat Slack group to have a positive, encouragin
 
 - [taniarascia.com](https://www.taniarascia.com)
 - [@taniarascia](https://twitter.com/taniarascia)
+- Chicago, USA
 
 ## Timm Stelzer
 
@@ -20,5 +21,6 @@ Hi, I'm Craig. I like to eat and drink. I'm interested in user experience and pr
 
 - [craiglam.com](https://www.craiglam.com)
 - [@siliconeidolon](https://twitter.com/siliconeidolon)
+- Edinburgh, Scotland
 
 ## Benjamin Schroeder
