@@ -15,7 +15,7 @@ Hi, I'm Tania. I started the HTTPChat Slack group to have a positive, encouragin
 
 ## Mike Ngu
 
-## Craig Lam
+## [Craig Lam](https://github.com/siliconeidolon)
 
 Hi, I'm Craig. I like to eat and drink. I'm interested in user experience and product design. 
 
