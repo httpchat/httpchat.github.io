@@ -13,7 +13,9 @@ Hi, I'm Tania. I started the HTTPChat Slack group to have a positive, encouragin
 
 ## Nick Tabick
 
-## Mike Ngu
+## [Mike Ngu](https://github.com/mikengu) 
+
+Hello, I'm Mike. Unlike a lot of the members of HTTPChat, I am fairly new to the tech field. I used to teach at my local university and currently work in healthcare. My preferred programming language is JavaScript and I am hoping to continue absorbing/leeching all of the valuable knowledge from the wonderful members of HTTPChat :) 
 
 ## [Craig Lam](https://github.com/siliconeidolon)
 
