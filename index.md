@@ -40,4 +40,4 @@ Hey now! I am a IT guy and Web Developer living in PDX. I have a background in d
 
 
 [//]: # (Space at the end of the file)
-</br></br>
+<br><br>
