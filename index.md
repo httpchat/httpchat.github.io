@@ -3,7 +3,7 @@
 
 ## [Tania Rascia](https://github.com/taniarascia)
 
-Hi, I'm Tania. I started the HTTPChat Slack group to have a positive, encouraging environment for programmers, developers, and designers of all levels.  
+Hi, I'm Tania. I started the HTTPChat Slack group to have a positive, encouraging environment for programmers, developers, and designers of all levels. I'm a web designer and front end developer, and I also write tutorials and guides.
 
 - [taniarascia.com](https://www.taniarascia.com)
 - [@taniarascia](https://twitter.com/taniarascia)
