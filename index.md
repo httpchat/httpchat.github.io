@@ -9,7 +9,28 @@ Hi, I'm Tania. I started the HTTPChat Slack group to have a positive, encouragin
 - [@taniarascia](https://twitter.com/taniarascia)
 - Chicago, USA
 
-## Timm Stelzer
+## [Timm Stelzer](https://github.com/tstelzer)
+
+The spirit came to me in a warm, wet, autumn night. Rain was dripping down the drain outside my window and white reflected off my dumbfounded face.
+`Ş͠TR͟͏̸I͠C͢͠T̵͢ ƯN̴͜I͢D͞͠I̢R̢E͘͜͟C̴T̸̛͜IO͏̶̵N̵̶̡A͏̶L҉ ̢͝D̛AŢ̛A͢F̵L͠Ǫ̛͘W̴̧͘!`, it proclaimed, pointing at the bright computer screen.
+
+"whoagh?" I croaked, still in shock. `STR͟UCT́URAL̕ S͜H́ARING L͞E͏ADS TO SI҉GNI̷FÍC͟A͝NT̨ ̢PE͜RF̢ÒRMAN̸CE͏ ͏G̛A͞I͏N̕S̡` the apparation howled, making wild, sweeping gestures.
+"I ... just want to make a simple CRUD app, I don't need --" `N̸O͠OO͠Ooooo̧` the piercing cry came (surely waking the neighbors), and with a theatrical swirl the specter flew into the coffee cup.
+
+A moment passed. Then another. Uncertain of the situation (and worried about my coffe) I carefully peaked over the edge of the cup. `IM͟M̶U̵T͝A͘BLE ṔERSIS͡TENT DAT̸A̡ ͏S̀T͠RÚC̀ --` \<FUMP>. The plastic plate fit nicely on the forfeited coffee cup.
+
+Satisfied I smiled, the silence my reward. Now where as I with the CRUD app?
+
+`no̶͘oo ͝͠d̴͢oņ'̕͟҉t͢ ̵ù̵̴p̸̧̛d̨á̷t̵͞͝ȩ ́i͠n͟ ͏p̧l͠҉a͜͜a͢a̶̶á͢c҉e` the muffled sound came from the wet prison, now oddly glowing green.
+
+"For fuck sake, I'll learn react if you give me back my coffe, whiney translucent bitch."
+
+`i҉ ͟c̀an̴ ͞al̶s̶o͜ reco͟m̵m͜en͟d͞ redux̢ ̢f͘o͡r çǫnt͘ro͡l̡ling̡ t̀h̷e st̡ate̵ ̛in̛ ҉yo̡ưr a͝p̕p,̕ it ̶i̕ś t́h͜e ̷d̨e ͠facto̶ indùstry͝ ͞sta͢n̶da͘rd n̵o͟w̷!`
+
+And so it was.
+
+- [timmstelzer.de](https://www.timmstelzer.de)
+- Berlin, Germany
 
 ## Nick Tabick
 
