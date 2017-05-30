@@ -48,7 +48,11 @@ Hey, I'm Craig. I like to eat and drink. I'm interested in user experience and p
 
 ## Benjamin Schroeder
 
-## João Vilaça
+## [João Vilaça](https://github.com/jpggvilaca)
+
+Hey, I'm João, 29 years old, software engineer from Portugal. I have a degree in computer science and I've been into web development since 2014. My go-to stack would be webpack/es6/node/react but I worked on a lot of other stuff. My interests aside from coding were/are martials arts, movies, anime, music and going out. I love to learn and to teach, helping in general! . Let's share knowledge and create something amazing together!
+- [jpggvilaca.github.io](http://jpggvilaca.github.io)
+- Braga, Portugal
 
 ## [Jacob Tegtmeier](https://github.com/jtegtmeier)
 
