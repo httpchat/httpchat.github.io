@@ -63,6 +63,16 @@ Hey now! I am a IT guy and Web Developer living in PDX. I have a background in d
 - [@jaketeg](https://twitter.com/jaketeg)
 - Portland, USA
 
+## [Kelly Robinson](https://github.com/kshimrob)
+
+Hi beautiful humanz! I'm super new to the web dev world so thank you in advance for all the help. I'm currently freelancing and also learning at [Launch School](https://www.launchschool.com). I have a background in neuroscience and East Asian studies. Went from being a middle school math teacher >> managing STEM content at an [Edtech startup](https://www.albert.io/) >> graphic and UI design at the same Edtech startup >> fell in love with front-end dev aaaaaaand decided to leave startup to pursue this magical world ^_^ 
+
+Besides [rolling around in code](https://imgur.com/r/gifs/TI8F7nh), you can find me trying to keep my hair sufficiently purple, letterpressing, screenprinting, sporadically teaching yoga, and writing songs on my ukulele.
+
+- [kellysrobinson.com](http://www.kellysrobinson.com)
+- [@kshimrob](https://twitter.com/kshimrob)
+- [Dribbble](https://dribbble.com/kshimrob)
+- Chicago, USA
 
 [//]: # (Space at the end of the file)
 <br><br>
