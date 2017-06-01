@@ -6,7 +6,7 @@
 
 > "It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe." - Muhammad Ali.
 
-> "We're in a giant car heading towards a brick wall and everyones arguing over where they're going to sit" - David Suzuki
+> "We're in a giant car heading towards a brick wall and everyones arguing over where they're going to sit." - David Suzuki
 
 > "You can fail at what you don't want, so you might as well take a chance on doing what you love." - Jim Carrey
 
