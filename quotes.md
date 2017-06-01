@@ -12,8 +12,6 @@
 
 > "You're an interesting species. An interesting mix. You're capable of such beautiful dreams, and such horrible nightmares. You feel so lost, so cut off, so alone, only you're not. See, in all our searching, the only thing we've found that makes the emptiness bearable, is each other." - Carl Sagan.
 
-> "You should deal with reality, not what you wish reality was." - Linus Torvalds
-
 > "Dear friend, you little know the possibilities which are in you." - Charles Spurgeon
 
 > "No matter where you go, there you are." – Buckaroo Banzai
