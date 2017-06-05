@@ -8,3 +8,7 @@
 
 ## Questions
 
+- When am I good enough to apply for jobs?
+- What should I learn first?
+- Do I need a degree?
+- How do I deal with impostor syndrome?
