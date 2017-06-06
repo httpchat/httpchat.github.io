@@ -74,5 +74,14 @@ Besides [rolling around in code](https://imgur.com/r/gifs/TI8F7nh), you can find
 - [Dribbble](https://dribbble.com/kshimrob)
 - Chicago, USA
 
+## [Chris Brennan](https://github.com/pizzapgh)
+
+I wanted to be Lebron James, but I was better at drawing than dunking a basketball. 3 years ago I found my passion - designing and building websites. Everyday I'm trying to be the King at it.
+
+- [chrisbrennanpgh.com](http://chrisbrennanpgh.com/)
+- Pittsburgh, USA
+
 [//]: # (Space at the end of the file)
 <br><br>
+
+
