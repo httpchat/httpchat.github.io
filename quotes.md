@@ -1,5 +1,9 @@
 # Quotes
 
+> "Luck is what happens when preparation meets opportunity" - Seneca 
+
+> "Don't let others rent space in your head. Especially not for free."
+
 > "This too shall pass."
 
 > "You should deal with reality, not what you wish reality was." - Linus Torvalds
