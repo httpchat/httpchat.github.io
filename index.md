@@ -46,7 +46,12 @@ Hey, I'm Craig. I like to eat and drink. I'm interested in user experience and p
 - [@siliconeidolon](https://twitter.com/siliconeidolon)
 - Edinburgh, Scotland
 
-## Benjamin Schroeder
+## [Benjamin Schroeder](https://github.com/btpschroeder)
+
+Hello HTTP-Friends! I'm Benjamin Schroeder, born and raised in the Midwest (St. Paul, MN & Milwaukee, WI) and currently working in the Washington, DC area.
+
+- [benschroeder.com, which is horribly outdated right now but still has some neat stuff](http://benschroeder.com)
+- [@btpschroeder](https://twitter.com/btpschroeder)
 
 ## [João Vilaça](https://github.com/jpggvilaca)
 
