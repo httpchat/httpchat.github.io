@@ -23,3 +23,5 @@
 > "There's something you haven't said, something you haven't done, some light that needs to be switched on, and it needs to be taken care of. Now." - Hugh MacLeod
 
 > "You are good enough." - Leo Babauta
+
+> "Gotta have opposites, light and dark and dark and light, in painting. It’s like in life. Gotta have a little sadness once in awhile so you know when the good times come. I'm waiting on the good times now." - Bob Ross
