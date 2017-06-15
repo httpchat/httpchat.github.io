@@ -1,6 +1,6 @@
 # Quotes
 
-> "Luck is what happens when preparation meets opportunity" - Seneca 
+> "Luck is what happens when preparation meets opportunity." - Seneca 
 
 > "Don't let others rent space in your head. Especially not for free."
 
