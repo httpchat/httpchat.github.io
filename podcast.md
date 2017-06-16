@@ -12,3 +12,4 @@
 - What should I learn first?
 - Do I need a degree?
 - How do I deal with impostor syndrome?
+- Are bootcamps worth it/should I be afraid of bootcamps?
