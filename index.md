@@ -70,7 +70,7 @@ Hey now! I am a IT guy and Web Developer living in PDX. I have a background in d
 
 ## [Kelly Robinson](https://github.com/kshimrob)
 
-Hi beautiful humanz! I'm super new to the web dev world so thank you in advance for all the help. I'm currently freelancing and also learning at [Launch School](https://www.launchschool.com). I have a background in neuroscience and East Asian studies. Went from being a middle school math teacher >> managing STEM content at an [Edtech startup](https://www.albert.io/) >> graphic and UI design at the same Edtech startup >> fell in love with front-end dev aaaaaaand decided to leave startup to pursue this magical world ^_^ 
+Hi beautiful humanz! I'm super new to the web dev world so thank you in advance for all the help. I'm currently freelancing and also learning at [Launch School](https://www.launchschool.com). I have a background in neuroscience and East Asian studies. Went from being a middle school math teacher >> managing STEM content at an [Edtech startup](https://www.albert.io/) >> graphic and UI design at the same Edtech startup >> fell in love with front-end dev aaaaaaand decided to leave startup to pursue this magical world ^_^
 
 Besides [rolling around in code](https://imgur.com/r/gifs/TI8F7nh), you can find me trying to keep my hair sufficiently purple, letterpressing, screenprinting, sporadically teaching yoga, and writing songs on my ukulele.
 
@@ -85,6 +85,14 @@ I wanted to be Lebron James, but I was better at drawing than dunking a basketba
 
 - [chrisbrennanpgh.com](http://chrisbrennanpgh.com/)
 - Pittsburgh, USA
+
+## [Amy Kotas](https://github.com/amykotas/)
+
+Hello,  I'm Amy. I first started making websites long ago when we built them with tables and CSS wasn't even a thing yet, and worked for as a developer for over a year after college. Being one of many interests, I got away from it but found my way back to computers via graphic design. Design is great, but I missed coding. Right now the goal is to be a freelance WP developer, and possibly get into theme development (passive income, yo). I do most of my work before the sun rises because I'm also a mother of two young children. Grateful to have found Tania's site and to be able to learn from the rest of you in HTTPChat.
+
+- [amykotas.com](http://amykotas.com)
+- [@amykotas](https://twitter.com/amykotas)
+- Vermont, USA
 
 [//]: # (Space at the end of the file)
 <br><br>
