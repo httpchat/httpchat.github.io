@@ -40,7 +40,7 @@ Hello, I'm Mike. Unlike a lot of the members of HTTPChat, I am fairly new to the
 
 ## [Craig Lam](https://github.com/siliconeidolon)
 
-Hey, I'm Craig. I like to eat and drink. I'm interested in user experience and product design. I'm currently working on freelance development and design projects. Learned Java at uni, but now moving over to C# and JS. My background is in CAD for engineering, but I've also recently worked as a bookseller and removals guy.
+Hey, I'm Craig. I like to eat and drink. I'm interested in user experience and product design. I'm currently working on developing web apps in React-Redux. Learned Java at uni and now moving over to C# and JS. My background is in CAD for engineering, but I've also recently worked as a bookseller and removals guy.
 
 - [craiglam.com](http://www.craiglam.com)
 - [@siliconeidolon](https://twitter.com/siliconeidolon)
