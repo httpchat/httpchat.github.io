@@ -94,7 +94,13 @@ Hello,  I'm Amy. I first started making websites long ago when we built them wit
 - [@amykotas](https://twitter.com/amykotas)
 - Vermont, USA
 
+## [Francesco Boffa](https://github.com/aomega08)
+
+Francesco here from London! I am Italian, 24 and moved to the City just 3 months ago. I do full stack Ruby on Rails development and enjoy frontend as much as backend and system administration. As a teenager I enjoyed low level system programming (C++/ASM) and developed my own OS. I am now looking forward at getting AWS Certified, and keeping a blog about it!
+
+- [francescoboffa.com](https://francescoboffa.com)
+- [@frboffa](https://twitter.com/frboffa)
+- London, UK
+
 [//]: # (Space at the end of the file)
 <br><br>
-
-
