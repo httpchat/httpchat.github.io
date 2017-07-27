@@ -36,7 +36,11 @@ And so it was.
 
 ## [Mike Ngu](https://github.com/mikengu)
 
-Hello, I'm Mike. Unlike a lot of the members of HTTPChat, I am fairly new to the tech field. I used to be a science tutor at my local university and currently work in healthcare. My preferred programming language is JavaScript and I am hoping to continue absorbing/leeching all of the valuable knowledge from the wonderful members of HTTPChat :)
+Hello, I'm Mike. Unlike a lot of the members of HTTPChat, I am fairly new to the tech field. I used to be a science tutor at my local university and currently work in healthcare. My preferred programming language is JavaScript and I am hoping to continue absorbing/leeching from the members of HTTPChat :)
+
+- [mikengu.com](http://www.mikengu.com)
+- [@ngu_mike](https://twitter.com/ngu_mike)
+- Dallas, Texas
 
 ## [Craig Lam](https://github.com/siliconeidolon)
 
