@@ -111,5 +111,13 @@ Francesco here from London! I am Italian, 24 and moved to the City just 3 months
 Hi, I'm Thiago, from Brazil and this is my story. My father bought me a computer when I was 15 years old and since that I have a dream, to be a developer. When I was 17, I built my first website; it was 1999, and everything seems to be possible. But, I jumped into the wrong career and became a chemical engineer. It's been 20 years since my first computer and I'm not a developer yet. Some day I was on the Internet and I found Tania's site, and I read her story about how her changed her career and it inspired me, to go after my dream.
 Now I'm here, trying to understand how things work. I don't know how to start or what I have to do, but in the meantime, I'm having some fun learning new things.
 
+## [Curtis LaPrise](https://github.com/curtiplas/)
+
+Howdy! I tinkered with php/html/js back in college and recently decided to really learn web dev again.  I'm sick of support side and operations side IT and I miss coding and development.  I'm currently working on gettnig my brand and business established EmberSmith llc.  I've also got a number of small projects I'm working on for passive income.  I'm still learning, but I'd love to help where I can.  I'm generally a fun sarcastic person.  I do most of my dev work during down times at my current job or after work once my son is asleep. 
+
+- [embersmith.com](http://embersmith.com)
+- [@curtiplas](https://twitter.com/curtiplas)
+- Troy (Detroit), USA
+
 [//]: # (Space at the end of the file)
 <br><br>
