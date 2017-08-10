@@ -19,7 +19,7 @@ The spirit came to me in a warm, wet, autumn night. Rain was dripping down the d
 
 A moment passed. Then another. Uncertain of the situation (and worried about my coffee) I carefully peaked over the edge of the cup. `IM͟M̶U̵T͝A͘BLE ṔERSIS͡TENT DAT̸A̡ ͏S̀T͠RÚC̀ --` \<FUMP>. The plastic plate fit nicely on the forfeited coffee cup.
 
-Satisfied I smiled, the silence my reward. Now where as I with the CRUD app?
+Satisfied I smiled, the silence my reward. Now where was I with the CRUD app?
 
 `no̶͘oo ͝͠d̴͢oņ'̕͟҉t͢ ̵ù̵̴p̸̧̛d̨á̷t̵͞͝ȩ ́i͠n͟ ͏p̧l͠҉a͜͜a͢a̶̶á͢c҉e` the muffled sound came from the wet prison, now oddly glowing green.
 
@@ -27,7 +27,7 @@ Satisfied I smiled, the silence my reward. Now where as I with the CRUD app?
 
 `i҉ ͟c̀an̴ ͞al̶s̶o͜ reco͟m̵m͜en͟d͞ redux̢ ̢f͘o͡r çǫnt͘ro͡l̡ling̡ t̀h̷e st̡ate̵ ̛in̛ ҉yo̡ưr a͝p̕p,̕ it ̶i̕ś t́h͜e ̷d̨e ͠facto̶ indùstry͝ ͞sta͢n̶da͘rd n̵o͟w̷!`
 
-And so it was.
+And so it was ... that VIM was the most superior editor for all things created.
 
 - [timmstelzer.de](https://www.timmstelzer.de)
 - Berlin, Germany
