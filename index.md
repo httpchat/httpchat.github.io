@@ -119,5 +119,13 @@ Howdy! I tinkered with php/html/js back in college and recently decided to reall
 - [@curtiplas](https://twitter.com/curtiplas)
 - Troy (Detroit), USA
 
+## [Samuel Guebo](https://github.com/samuelguebo)
+
+Hello! I am Samuel from Côte d'Ivoire. I love using pieces of codes to build tools that help people. Involved in tech projects with high social impact in Africa, I love back-end technologies as much as I enjoy designing clean front-end interfaces. Dancer, book-addict, and Jesus lover.
+
+- [samuelguebo.co](http://samuelguebo.co)
+- [@samuelguebo](https://twitter.com/samuelguebo)
+- Bingerville (Côte d'Ivoire), West Africa
+
 [//]: # (Space at the end of the file)
 <br><br>
