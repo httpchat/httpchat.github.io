@@ -27,7 +27,7 @@ Satisfied I smiled, the silence my reward. Now where was I with the CRUD app?
 
 `i҉ ͟c̀an̴ ͞al̶s̶o͜ reco͟m̵m͜en͟d͞ redux̢ ̢f͘o͡r çǫnt͘ro͡l̡ling̡ t̀h̷e st̡ate̵ ̛in̛ ҉yo̡ưr a͝p̕p,̕ it ̶i̕ś t́h͜e ̷d̨e ͠facto̶ indùstry͝ ͞sta͢n̶da͘rd n̵o͟w̷!`
 
-And so it was ... that VIM was the most superior editor for all things created.
+And so it was.
 
 - [timmstelzer.de](https://www.timmstelzer.de)
 - Berlin, Germany
