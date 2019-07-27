@@ -129,3 +129,12 @@ Hello world... I came into the tech space and totally fell in love with it. I've
 
 [//]: # (Space at the end of the file)
 <br><br>
+
+## [Farhan Yahya](https://github.com/doc-han)
+
+Hola Amigos, I'm Farhan but prefers to be called **Han**. I'm a university Computer Science student. I've learnt **a lot** but I later realised **a lot** isn't a word or term in tech. Hence, I'm on a journey to do what I love and to understand very well the little I know but not to rather want to know what **a lot is**, although it's void.
+
+- [Github](https://github.com/doc-han)
+- [Dev.to](https://dev.to/dochan)
+- [StackOverflow](https://stackoverflow.com/users/story/9215837)
+- Accra, Ghana
