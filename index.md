@@ -121,7 +121,7 @@ Howdy! I tinkered with php/html/js back in college and recently decided to reall
 
 ## [Phavor George](https://github.com/phavor)
 
-Hello world... I came into the tech space and totally fell in love with it. I've been learning the basic technologies and I like the community so much. This one being the Primary. I love working with [React](https://reactjs.org), [babel](https://babel.io], [node](https://nodejs.org) and [sass](https://sass-lang.com). I've come to love the open source community too and am open to new projects.
+Hello world... I came into the tech space and totally fell in love with it. I've been learning the basic technologies and I like the community so much. This one being the Primary. I love working with [React](https://reactjs.org), [Babel](https://babeljs.io), [node](https://nodejs.org) and [sass](https://sass-lang.com). I've come to love the open source community too and am open to new projects.
 
 - [crea8lab](https://crea8lab.github.io)
 - [@tz_fayvor](https://twitter.com/tz_fayvor)
