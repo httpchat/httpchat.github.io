@@ -127,5 +127,13 @@ Hello world... I came into the tech space and totally fell in love with it. I've
 - [@tz_fayvor](https://twitter.com/tz_fayvor)
 - Umuahia, Nigeria
 
+## [Bang Den](https://github.com/bangden07)
+
+I am very interested in technological developments, especially web technology and sysadmins. I like challenges and are encouraged to immediately resolve the issue in a short time. Even giving up my break to solve a problem.
+
+- [bangden.codes](https://bangden.codes)
+- [@bangden07](https://twitter.com/bangden07)
+- Surabaya, Indonesia
+
 [//]: # (Space at the end of the file)
 <br><br>
